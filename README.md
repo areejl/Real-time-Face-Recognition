@@ -108,8 +108,8 @@ video_capture.release()
 cv2.destroyAllWindows()
 
 ```
-**Results :**
-*Unknown*
-![unknown](unknown.png)
-*known*
+### Results :
+*Unknown**</br>
+![unknown](unknown.png)</br>
+*known**</br>
 ![levi](levi.png)
