@@ -1,5 +1,5 @@
 # Real-time-Face-Recognition
-## Real-time Face Recognition by OpenCV & python - task 4 for track AI at Smart-Methods summer training
+## Real-time Face Recognition by OpenCV & python - Task 4 for track AI at Smart-Methods summer training
 
 >*Note: You should have Python3.8 and Visual studio code installed first.*
 
@@ -109,7 +109,7 @@ cv2.destroyAllWindows()
 
 ```
 ### Results :
-*Unknown**</br>
+**Unknown**</br>
 ![unknown](unknown.png)</br>
-*known**</br>
+**known**</br>
 ![levi](levi.png)
